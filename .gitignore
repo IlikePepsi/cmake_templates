@@ -1,5 +1,7 @@
 .idea
 
+cmake_templates.sublime-project
+
 cmake-build-debug
 cmake-build-release
 
